@@ -45,7 +45,6 @@ Marital Status (Married/Single/Divorced/Widow)
 
 📸 Dashboard Preview
 
-(Insert the image screenshot here)
 https://github.com/MadihaLodhi/Vehicle-Insurance-/blob/main/Snapshot%20of%20Dashboard%20(2).png
 
 🚀 Future Improvements
